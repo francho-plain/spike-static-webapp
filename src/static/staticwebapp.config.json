@@ -4,10 +4,10 @@
   },
   "forwardingGateway": {
     "requiredHeaders": {
-      "X-Azure-FDID" : "79f7a60f-82f6-493b-ad87-0f880e3981ef"
+      "X-Azure-FDID" : "33417025-bb32-4e4e-83fa-52e0ee3810d8"
     },
     "allowedForwardedHosts": [
-      "spike-cdn-fggjahddgvd6egg9.z01.azurefd.net"
+      "spike-webapp-cubwgnaeezbxg7ex.z01.azurefd.net"
     ]
   },
   "responseOverrides": {
