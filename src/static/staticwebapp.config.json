@@ -1,0 +1,13 @@
+{
+  "networking": {
+    "allowedIpRanges": ["AzureFrontDoor.Backend"]
+  },
+  "forwardingGateway": {
+    "requiredHeaders": {
+      "X-Azure-FDID" : "79f7a60f-82f6-493b-ad87-0f880e3981ef"
+    },
+    "allowedForwardedHosts": [
+      "spike-cdn-fggjahddgvd6egg9.z01.azurefd.net"
+    ]
+  }
+}
