@@ -9,5 +9,10 @@
     "allowedForwardedHosts": [
       "spike-cdn-fggjahddgvd6egg9.z01.azurefd.net"
     ]
+  },
+  "responseOverrides": {
+    "403": {
+      "rewrite": "/403.html"
+    }
   }
 }
